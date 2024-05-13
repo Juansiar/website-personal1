@@ -50,3 +50,4 @@ try {
     error_log($e->getMessage());
     echo 'Error sending email. Please try again later.';
 }
+?>
